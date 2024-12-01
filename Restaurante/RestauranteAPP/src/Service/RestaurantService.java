@@ -53,7 +53,6 @@ public class RestaurantService {
         md.setAdress(in.nextLine());
         rest.add(md);
         System.out.println(rest);
-
     }
 
 }
