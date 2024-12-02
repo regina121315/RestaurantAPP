@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class CymbalssService {
-    public List<Object> ds = new ArrayList<>(); 
+    public List<Cymbals> ds = new ArrayList<>(); 
     Scanner sc = new Scanner(System.in);
 
     public void mostrarPlatillodecarne() { 
